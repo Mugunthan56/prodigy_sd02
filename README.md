@@ -13,4 +13,4 @@ Guess a number between 1 and 100, and get feedback until you win!
 ## 🚀 How to Run
 
 ```bash
-python guessing_game_replay.py
+python guessing_game_gui.py
